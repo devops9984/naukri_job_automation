@@ -1,0 +1,518 @@
+job_title,company,location,experience,salary,url,full_job_description
+GCP DevOps Engineer -H,IT MNC,Hyderabad,,,https://www.naukri.com/job-listings-gcp-devops-engineer-h-advance-career-solutions-hyderabad-pune-4-to-8-years-290926003438,"Job Title
+GCP DevOps Engineer
+Job Overview
+Hiring a GCP DevOps Engineer (4-8yrs) to design, build, and automate scalable infrastructure on Google Cloud using Terraform, GKE, and CI/CD pipelines.
+Education (Mandatory)
+B.E. / B.Tech or BCA + MCA
+
+Key Responsibilities & Tech Stack
+IaC & Automation: Provision GCP resources (Compute Engine, VPC, Cloud SQL) using Terraform.
+Containers & Orchestration: Deploy and manage workloads on Docker and GKE.
+CI/CD Pipelines: Automate deployments using Cloud Build, Jenkins, or GitHub Actions.
+Monitoring & Security: Set up Cloud Monitoring/Logging and enforce IAM security policies.
+Scripting: Automation via Python or Bash.
+Requirements
+Experience: 4 to 8 years in DevOps / Cloud Engineering.
+Must-Have Skills: GCP, Terraform, GKE, CI/CD, Python/Bash.
+Preferred: Google Certified Professional Cloud DevOps Engineer."
+Devops Engineer,Infosys,Hyderabad,,,https://www.naukri.com/job-listings-devops-engineer-infosys-hyderabad-chennai-bengaluru-3-to-8-years-060826013086,"Experience range 3 - 8
+
+Required Skills & Qualifications:
+Bachelor's degree in Computer Science, Information Technology, or related field.
+3+ years of experience in DevOps, System Administration, or Cloud Engineering.
+Strong knowledge of CI/CD tools such as Azure DevOps, Jenkins, GitHub Actions, or GitLab CI/CD.
+Experience with cloud platforms (Azure, AWS, or GCP).
+Hands-on experience with Docker and Kubernetes.
+Strong understanding of Linux/Unix administration.
+Experience with Infrastructure as Code (Terraform, ARM Templates, CloudFormation).
+Knowledge of scripting languages such as Python, Bash, or PowerShell.
+Experience with source control systems like Git.
+Understanding of networking, security, and monitoring concepts."
+DevOps Engineer (On-Premises),Willware Technologies,Hyderabad,,,https://www.naukri.com/job-listings-devops-engineer-on-premises-willware-technologies-private-limited-hyderabad-3-to-9-years-240926504495,"Job Summary
+We are looking for an experienced On-Prem DevOps Engineer to manage and automate on-premises infrastructure, CI/CD pipelines, deployments, and application environments. The candidate should have strong experience with DevOps tools, Linux, containers, Kubernetes/OpenShift, and infrastructure automation.
+Key Responsibilities
+Design, implement, and maintain CI/CD pipelines using Jenkins or similar tools.
+Manage and support on-premises servers and infrastructure .
+Work with Linux/Unix environments , shell scripting, and system administration.
+Deploy and manage applications using Docker and Kubernetes/OpenShift .
+Automate infrastructure and configuration management using Ansible and/or Terraform.
+Manage source code repositories using Git/GitLab/Bitbucket .
+Automate application deployments and environment provisioning.
+Monitor application and infrastructure performance and troubleshoot production issues.
+Work with tools such as Nexus/Artifactory, SonarQube, Prometheus, and Grafana .
+Collaborate with development, QA, infrastructure, and security teams.
+Support production releases, incident resolution, and environment upgrades.
+Implement best practices for security, availability, backup, and disaster recovery.
+Required Skills
+5-8 years of experience in DevOps / Infrastructure / Deployment .
+Strong hands-on experience in On-Premises environments .
+Jenkins and CI/CD.
+Linux/Unix administration.
+Docker and Kubernetes/OpenShift.
+Ansible.
+Git/GitLab/Bitbucket.
+Shell scripting Python is an advantage.
+Good understanding of networking, servers, and infrastructure.
+Experience with monitoring and logging tools.
+
+
+Disclaimer: This job posting has been aggregated from external source. Role details, content, and availability are subject to change. Applicants are advised to confirm the latest information directly on the company website before applying."
+LLMOps DevOps Engineer,PwC,Hyderabad,,,https://www.naukri.com/job-listings-llmops-devops-engineer-pwc-hyderabad-pune-bengaluru-4-to-8-years-060826025089,"Hi,
+PFB Job description and kindly connect and let me know if interested or Share your CV on sairam.m.naik@pwc.com or if you have any references it will be helpful.
+
+Responsibilities:
+Collaborate with LLM Engineers, Cloud/Platform teams, Security, Risk, and Networking teams to produce GenAI solutions.
+Design, implement, and manage infrastructure for LLM-powered applications including RAG pipelines, agent frameworks, and copilots.
+Architect secure and scalable cloud networking solutions including VNET/VPC design, subnets, private endpoints, DNS configuration, and network security controls.
+Configure and manage network security components such as NSGs, firewalls, load balancers, ingress controllers, and API gateways.
+Ensure secure connectivity between services using Private Endpoints, VPNs, ExpressRoute/Direct Connect, and hybrid networking models where applicable.
+Build and maintain CI/CD pipelines for ML and LLM workloads using modern DevOps practices.
+Deploy, monitor, and manage LLM endpoints (Azure OpenAI/OpenAI APIs) in secure enterprise environments.
+Implement containerization and orchestration strategies using Docker and Kubernetes (AKS preferred), including cluster networking and service mesh configurations.
+Develop infrastructure as code (IaC) using Terraform for scalable and repeatable deployments.
+Establish robust monitoring, logging, and observability frameworks using OpenTelemetry, Azure Monitor, App Insights, Datadog, and structured logging practices.
+Manage vector databases such as Azure AI Search, Pinecone, Elastic, or OpenSearch for retrieval systems.
+Implement model lifecycle management, evaluation frameworks, and automated validation pipelines.
+Ensure Responsible AI enforcement, governance controls, and compliance with enterprise security and networking standards.
+Implement secure authentication and access mechanisms using Key Vault, Managed Identity, RBAC, and network isolation principles.
+Perform load and performance testing using tools such as K6, Postman, or JMeter.
+Optimize infrastructure and networking configurations for cost, scalability, reliability, and low latency.
+Stay updated with advancements in LLMOps, DevOps automation, cloud-native networking, and security technologies to enhance enterprise GenAI platforms.
+Requirements:
+Bachelors or Master’s degree in Computer Science, Information Technology, Engineering, or a related field.
+4–6+ years of experience in DevOps, MLOps, Platform Engineering, Cloud Engineering, or Infrastructure Engineering roles.
+Hands-on experience operationalizing ML or LLM systems in production environments.
+Strong programming skills in Python and/or Bash. Familiarity with TypeScript or Java is a plus.
+Experience building and managing CI/CD pipelines using GitHub Actions or Azure DevOps Pipelines.
+Proficiency in containerization and orchestration technologies such as Docker and Kubernetes (AKS preferred).
+Strong understanding of cloud networking concepts including VNET/VPC architecture, subnetting, routing, DNS, load balancing, firewalls, and private connectivity.
+Experience implementing secure networking patterns such as Private Endpoints, VPNs, ExpressRoute/Direct Connect, and zero-trust architecture.
+Experience working with cloud platforms (Azure preferred; AWS/GCP acceptable).
+Experience implementing monitoring, logging, and observability solutions in enterprise systems.
+Familiarity with vector databases and LLM deployment patterns (RAG architectures).
+Understanding of Responsible AI principles, model governance, data privacy, enterprise security, and compliance controls.
+Strong troubleshooting skills across infrastructure, networking, and application layers.
+Excellent communication and collaboration abilities.
+Ability to work in a fast-paced, dynamic environment supporting production-grade AI systems.
+Nice to Have Skills:
+Experience with Azure OpenAI, OpenAI APIs, and model deployment endpoints.
+Familiarity with orchestration frameworks such as LangChain, LangGraph, or Semantic Kernel.
+Experience supporting enterprise AI governance, compliance programs, and secure network architectures.
+Healthcare domain understanding would be an added advantage
+Certifications
+If you are passionate about building scalable, secure, and network-resilient GenAI platforms and have strong DevOps expertise, join PwC US – Acceleration Center and be part of a team that is operationalizing enterprise Generative AI at scale. We offer a collaborative and innovative environment where you can make a significant impact on next-generation AI systems.
+Preferred Qualifications:
+BE / B.Tech / MCA / M.Sc / M.E / M.Tech / Master’s Degree from a reputed institute"
+DevOps Engineer,Accenture,Hyderabad,,,https://www.naukri.com/job-listings-devops-engineer-accenture-solutions-pvt-ltd-hyderabad-3-to-8-years-220926935821,"Project Role : DevOps Engineer
+
+Project Role Description : Responsible for building and setting up new development tools and infrastructure utilizing knowledge in continuous integration, delivery, and deployment (CI/CD), Cloud technologies, Container Orchestration and Security. Build and test end-to-end CI/CD pipelines, ensuring that systems are safe against security threats.
+
+Must have skills : ServiceNow Strategic Portfolio Management (SPM)
+
+Good to have skills : NA
+Minimum 3 year(s) of experience is required
+
+Educational Qualification : 15 years full time education
+
+Summary:
+In the role of ServiceNow Senior Developer, a typical day involves designing and implementing new development tools and infrastructure to support software development processes. This includes setting up and maintaining continuous integration, delivery, and deployment pipelines, as well as managing cloud-based environments and container orchestration platforms. The role requires ensuring that all systems and processes are secure and resilient against potential threats. Collaboration with various teams to streamline workflows and improve operational efficiency is also a key part of daily activities, fostering a productive and secure development environment.
+
+
+
+Roles Responsibilities:
+Expected to perform independently and become an SME.
+Required active participation/contribution in team discussions.
+Contribute in providing solutions to work related problems.
+Collaborate with cross-functional teams to optimize deployment processes and infrastructure.
+Monitor system performance and troubleshoot issues to maintain high availability and reliability.
+Assist in automating repetitive tasks to improve efficiency and reduce manual errors.
+Support junior team members by sharing knowledge and providing guidance on best practices.
+
+Professional Technical Skills:
+
+Must To Have Skills:
+Proficiency in ServiceNow Strategic Portfolio Management (SPM).
+Experience with cloud platforms and container orchestration technologies.
+Strong understanding of continuous integration and continuous deployment methodologies.
+Knowledge of security best practices in software development and deployment.
+Ability to design, build, and maintain scalable and secure infrastructure.
+Familiarity with automation tools and scripting languages to streamline workflows.
+The candidate should have minimum 3 years of experience in ServiceNow Strategic Portfolio Management (SPM).
+This position is based at our Hyderabad office.
+A 15 years full time education is required.
+
+Qualification 15 years full time education"
+DevOps Engineer,Accenture,Hyderabad,,,https://www.naukri.com/job-listings-devops-engineer-accenture-solutions-pvt-ltd-hyderabad-3-to-6-years-280926924053,"Project Role :DevOps Engineer
+
+
+Project Role Description :Responsible for building and setting up new development tools and infrastructure utilizing knowledge in continuous integration, delivery, and deployment (CI/CD), Cloud technologies, Container Orchestration and Security. Build and test end-to-end CI/CD pipelines, ensuring that systems are safe against security threats.
+Must have skills :Cloud Automation DevOps
+
+Good to have skills :NA
+Minimum 5 year(s) of experience is required
+
+Educational Qualification :15 years full time education
+
+Summary:As a DevOps Engineer, you will be responsible for building and setting up new development tools and infrastructure. A typical day involves utilizing your expertise in continuous integration, delivery, and deployment, along with cloud technologies and container orchestration. You will also focus on ensuring the security of systems while building and testing end-to-end CI/CD pipelines, contributing to a seamless development process and enhancing operational efficiency.
+Roles Responsibilities:
+Expected to be an SME.
+Collaborate and manage the team to perform.
+Responsible for team decisions.
+Engage with multiple teams and contribute on key decisions.
+Provide solutions to problems for their immediate team and across multiple teams.
+Mentor junior team members to enhance their skills and knowledge.
+Continuously evaluate and improve existing processes to increase efficiency.
+good to have experience on Azure, Terraform, Gearset. Professional Technical Skills:Must To Have Skills:Proficiency in Cloud Automation DevOps.
+Strong understanding of CI/CD methodologies and tools.
+Experience with container orchestration platforms such as Kubernetes or Docker Swarm.
+Familiarity with cloud service providers like AWS, Azure, or Google Cloud.
+Knowledge of security best practices in cloud environments.
+Additional Information:
+The candidate should have minimum 5 years of experience in Cloud Automation DevOps.
+This position is based at our Hyderabad office.
+A 15 years full time education is required.
+Qualification15 years full time education"
+Devops Engineer,Infosys,Hyderabad,,,https://www.naukri.com/job-listings-devops-engineer-infosys-hyderabad-chennai-bengaluru-3-to-5-years-050626022894,"Location: Pune. Chennai, Hyderabad, Bangalore
+NP:0-90 Days
+Skills: AWS DEVOPS Key Responsibilities
+Design, build, and maintain AWS cloud infrastructure (EC2, S3, RDS, VPC, Lambda, etc.)
+Create and manage CI/CD pipelines using tools like Jenkins, GitHub Actions, GitLab CI, or AWS CodePipeline
+Automate infrastructure provisioning using Infrastructure as Code (IaC) tools such as Terraform or AWS CloudFormation
+Monitor system performance and ensure high availability and scalability
+Implement security best practices including IAM roles, policies, and network security
+Manage containerized applications using Docker and Kubernetes (EKS preferred)
+Troubleshoot production issues and optimize system performance
+Collaborate with developers to streamline release processes
+Maintain logging and monitoring using tools like CloudWatch, ELK stack, Prometheus
+Ensure backup, disaster recovery, and compliance requirements"
+Devops Engineer,Proounce,Hyderabad,,,https://www.naukri.com/job-listings-devops-engineer-proounce-solutions-private-limited-kolkata-mumbai-new-delhi-hyderabad-pune-chennai-bengaluru-4-to-8-years-141024501811,"PROOUNCE SOLUTIONS PRIVATE LIMITED is looking for Devops Engineer to join our dynamic team and embark on a rewarding career journey
+Collaborating with coworkers to conceptualize, develop, and release software.
+Conducting quality assurance to ensure that the software meets prescribed guidelines.
+Rolling out fixes and upgrades to software, as needed.
+Securing software to prevent security breaches and other vulnerabilities.
+Collecting and reviewing customers' feedback to enhance user experience.
+Suggesting alterations to workflow in order to improve efficiency and success.
+Pitching ideas for projects based on gaps in the market and technological advancements."
+Devops Engineer AI LLM,PwC,Hyderabad,,,https://www.naukri.com/job-listings-devops-engineer-ai-llm-pwc-kolkata-hyderabad-bengaluru-4-to-8-years-230926022273,"Role & responsibilities
+Developing and implementing data science workflows to support AI-driven automation solutions
+- Utilizing machine learning and deep learning techniques to enhance data analysis and predictive modeling
+- Building and maintaining data pipelines and data lakes to facilitate efficient data processing and storage
+- Applying data engineering skills to optimize data quality and integrity across various platforms
+- Leveraging programming languages such as C++, R, and MATLAB for complex data analysis and modeling
+- Collaborating with cross-functional teams to integrate artificial intelligence and natural language processing into client solutions
+- Conducting statistical analysis to inform data-driven decision-making processes
+- Troubleshooting data science algorithms and workflows to improve performance and accuracy
+- Engaging in continuous learning to stay updated with the latest advancements in data science and AI technologies
+
+Preferred candidate profile"
+Devops Engineer-INF,Infosys,Hyderabad,,,https://www.naukri.com/job-listings-devops-engineer-inf-infosys-hyderabad-chennai-bengaluru-3-to-8-years-030826017291,"Job description
+Location: Pune. Chennai, Hyderabad, Bangalore
+NP:0-90 Days
+Skills: AWS DEVOPS Key Responsibilities
+Design, build, and maintain AWS cloud infrastructure (EC2, S3, RDS, VPC, Lambda, etc.)
+Create and manage CI/CD pipelines using tools like Jenkins, GitHub Actions, GitLab CI, or AWS CodePipeline
+Automate infrastructure provisioning using Infrastructure as Code (IaC) tools such as Terraform or AWS CloudFormation
+Monitor system performance and ensure high availability and scalability
+Implement security best practices including IAM roles, policies, and network security
+Manage containerized applications using Docker and Kubernetes (EKS preferred)
+Troubleshoot production issues and optimize system performance
+Collaborate with developers to streamline release processes
+Maintain logging and monitoring using tools like CloudWatch, ELK stack, Prometheus
+Ensure backup, disaster recovery, and compliance requirements"
+DevOps/LLMOps -Engineer,PwC,Hyderabad,,,https://www.naukri.com/job-listings-devops-llmops-engineer-pwc-kolkata-hyderabad-bengaluru-4-to-8-years-220926019786,"The Opportunity
+Join our Acceleration Center India and help shape the future of business for our diverse client portfolio across geographies and jurisdictions. Youll work at the heart of global teams across Advisory, Assurance, Tax and Business Services—solving real client challenges through connected collaboration. We’ll help you grow your skills so you can go further. With hands-on learning, cutting-edge tools and an inclusive culture, this is your opportunity to do inspiring work that makes a difference—every day.
+As a DevOps/LLMOps Engineer - Senior Associate, you will play a pivotal role in advancing our AI-driven automation and cognitive solutions. Within our Data and Analytics Engineering practice, you will focus on developing and deploying innovative data science solutions that meet client needs. As a Senior Associate, you will leverage your skills to analyze complex problems, mentor junior team members, and maintain professional standards. You will build meaningful client relationships and navigate complex situations to deliver quality work and grow your personal brand.
+In this role at PwC Acceleration Center India, you will collaborate within our Cloud Engineering, Data & Analytics network to drive impactful solutions. You will be exposed to diverse perspectives, using critical thinking to break down complex concepts and anticipate client needs. Your work will contribute to the broader objectives of our AI-Driven Automation & Cognitive Solutions practice, where you will develop a deeper understanding of the business context and how it is evolving. Embrace the opportunity to grow your technical skills and personal development while guiding others and interpreting data to inform insights and recommendations.
+Responsibilities
+- Developing and implementing data science workflows to support AI-driven automation solutions
+- Utilizing machine learning and deep learning techniques to enhance data analysis and predictive modeling
+- Building and maintaining data pipelines and data lakes to facilitate efficient data processing and storage
+- Applying data engineering skills to optimize data quality and integrity across various platforms
+- Leveraging programming languages such as C++, R, and MATLAB for complex data analysis and modeling
+- Collaborating with cross-functional teams to integrate artificial intelligence and natural language processing into client solutions
+- Conducting statistical analysis to inform data-driven decision-making processes
+- Troubleshooting data science algorithms and workflows to improve performance and accuracy
+- Engaging in continuous learning to stay updated with the latest advancements in data science and AI technologies
+What You Must Have
+- At least a Bachelor's degree
+- At least 4 years of experience
+- Oral and written proficiency in English required
+What Sets You Apart
+- Preference for at least one of the following fields of study: Artificial Intelligence and Robotics, Business Analytics, Computer and Information Science, Computer Engineering, Computer Programming, Data Processing/Analytics/Science, Engineering, Information Technology, Machine Learning, Management Information Systems, Mathematics, Statistics, Systems Engineering
+Hands-on experience operationalizing ML or LLM systems in production environments.
+Strong programming skills in Python and/or Bash. Familiarity with TypeScript or Java is a plus.
+Experience building and managing CI/CD pipelines using GitHub Actions or Azure DevOps Pipelines.
+Proficiency in containerization and orchestration technologies such as Docker and Kubernetes (AKS preferred).
+Strong understanding of cloud networking concepts including VNET/VPC architecture, subnetting, routing, DNS, load balancing, firewalls, and private connectivity.
+- Utilizing advanced data science algorithms and workflows
+- Developing predictive modeling and complex data analysis skills
+- Navigating AI-driven automation and cognitive solutions
+- Excelling in data-driven decision making and analytical thinking
+- Managing data pipelines and data quality processes
+- Embracing change and intellectual curiosity in dynamic environments"
+DevOps Engineer,Accenture,Hyderabad,,,https://www.naukri.com/job-listings-devops-engineer-accenture-solutions-pvt-ltd-hyderabad-3-to-6-years-140926915978,"About The Role  
+
+
+
+Project Role :DevOps Engineer
+
+
+
+
+Project Role Description :Responsible for building and setting up new development tools and infrastructure utilizing knowledge in continuous integration, delivery, and deployment (CI/CD), Cloud technologies, Container Orchestration and Security. Build and test end-to-end CI/CD pipelines, ensuring that systems are safe against security threats.
+
+
+Must have skills :SAP Callidus Configuration and Development
+
+
+
+Good to have skills :NA
+Minimum
+
+2 year(s) of experience is required
+
+
+
+Educational Qualification :15 years full time education
+
+
+
+Summary:As a DevOps Engineer, you will be responsible for building and setting up new development tools and infrastructure. A typical day involves utilizing your knowledge in continuous integration, delivery, and deployment, as well as cloud technologies and container orchestration. You will also focus on ensuring that systems are secure against potential threats while building and testing end-to-end CI/CD pipelines.
+
+Roles & Responsibilities:
+Expected to perform independently and become an SME.
+Required active participation/contribution in team discussions.
+Contribute in providing solutions to work related problems.
+Collaborate with cross-functional teams to enhance the development process and improve system performance.
+Monitor and troubleshoot issues in the CI/CD pipeline to ensure smooth operations.
+
+Professional & Technical
+
+Skills:
+Must To Have
+
+Skills:
+Proficiency in SAP Callidus Configuration and Development.
+Strong understanding of CI/CD methodologies and tools.
+Experience with cloud platforms such as AWS, Azure, or Google Cloud.
+Familiarity with container orchestration tools like Kubernetes or Docker Swarm.
+Knowledge of security best practices in software development and deployment.
+
+Additional Information:
+The candidate should have minimum 2 years of experience in SAP Callidus Configuration and Development.
+This position is based at our Hyderabad office.
+A 15 years full time education is required.
+
+ Qualification 15 years full time education"
+Devops Engineer,Nisum,Hyderabad,,,https://www.naukri.com/job-listings-devops-engineer-nisum-hyderabad-4-to-8-years-170926015606,"Mandate Skills:-
+
+Terraform, GCP, Kubernetes, Docker , Linux,Networking,Helm
+
+Interested can write to:-rvaram@nisum.com"
+Devops Engineer,Proounce,Hyderabad,,,https://www.naukri.com/job-listings-devops-engineer-proounce-solutions-private-limited-hyderabad-2-to-5-years-111024500021,"Collaborate with cross-functional teams to design and architect cloud solutions that align with business objectives.
+Develop high-level cloud architecture and migration strategies.
+Deploy, configure, and manage CGP, AWS and Azure resources, including virtual machines, containers, DBs and serverless components.
+Implementing various development, testing, automation tools, and IT infrastructure
+Hands on Experience in creating scripted/declarative pipeline in Jenkins
+Implement security policies and perform regular audits to identify vulnerabilities.
+Automate routine tasks and workflows using scripting languages like Python, PowerShell, Perl, Groovy, Bash, Ansible, Puppet, Chef.
+Create and manage CI/CD pipelines for continuous integration and deployment with Python, Java & Reacts tech stack applications.
+Working Experience in planning, coordinating, and overseeing the entire DevOps
+Must have:
+2 - 5 years of DevOps experience.
+Bachelors degree in computer science or related field, or equivalent professional experience.
+Strong knowledge in CI/CD tools like Jenkins
+Skilled in building complete CI automation using GitHub, Jenkins(pipelines), SonarQube, Artifactory & integrating security scans.
+Skilled in building end to end CD pipelines including deployment, integration of various test framework for all technologies.
+Should have experience on Terraform/cloud formation
+Must have one or more programming languages like Python/Go.
+Must have one cloud experience - aws/google/azure
+Good understanding on Ansible/chef
+Strong with Unix/PowerShell and bash scripting.
+Good Knowledge in troubleshooting the Build and deployment issues.
+Experience of working on Linux and Windows environments .
+Should Possess the knowledge of Docker
+Nice to have:
+Familiarity with test-driven development practices and continuous integration/continuous delivery.
+Nice to have certifications with related field"
+DevOps Engineer,Siima Technologies,Hyderabad,,,https://www.naukri.com/job-listings-devops-engineer-siima-technologies-hyderabad-4-to-9-years-040626500878,"We are looking for a highly skilled DevOps Engineer with 24 years of experience to join our team in Hyderabad. The ideal candidate will have expertise in Docker, Kubernetes, AWS, CI/CD, and Linux.
+
+Roles and Responsibility
+
+
+Design, implement, and maintain scalable and secure infrastructure using Docker, Kubernetes, and AWS.
+
+Develop and deploy automated testing scripts to ensure high-quality software delivery.
+
+Collaborate with cross-functional teams to identify and prioritize project requirements.
+
+Implement continuous integration and continuous deployment (CI/CD) pipelines using various tools.
+
+Troubleshoot and resolve technical issues efficiently.
+
+Ensure compliance with industry standards and best practices for security and scalability.
+
+
+Job Requirements
+
+
+Strong knowledge of Docker, Kubernetes, AWS, CI/CD, and Linux.
+
+Experience with agile development methodologies and version control systems.
+
+Excellent problem-solving skills and attention to detail.
+
+Ability to work collaboratively in a team environment.
+
+Strong communication and interpersonal skills.
+
+Familiarity with cloud-based technologies and containerization.
+
+
+How to Apply
+
+Apply Now.
+
+
+Disclaimer : This job posting has been aggregated from external source. Role details, content, and availability are subject to change. Applicants are advised to confirm the latest information directly on the company website before applying."
+Devops Engineer,Fractal Analytics,Hyderabad,,,https://www.naukri.com/job-listings-devops-engineer-fractal-analytics-hyderabad-chennai-bengaluru-6-to-11-years-210926015816,"You will solve problems in a fast-paced, collaborative, and iterative delivery environment. You should be an engineer with software delivery experience, and a collaborative style who is able to work with developers and others to understand requirements and implement software delivery solutions that meet architectural guidelines.
+As a constant learner and early adopter, you are already embracing leading-edge technologies and methodologies. We embrace a culture of experimentation and constantly strive for improvement and learning. You will work in a collaborative, trusting, thought-provoking environment one that encourages diversity of thought and creative solutions that are in the best interests of our customers globally.
+Strong analytical, strategical, and creative problem-solving skills.
+Experience mentoring, coaching, developing and inspiring people and teams.
+Team player with a positive, collaborative work ethic. Enjoys collaborating with design, product, etc.
+Passionate about cloud native technologies.
+Does not believe in reinventing the wheel, instead leveraging the best components that are readily available.
+Primary Responsibilities
+Work with other Observability Engineers to design and implement and maintain scalable, reliable, performant, and efficient observability systems.
+Help the team to continuously improve our operating processes.
+Nurture engineer growth through mentorship
+Promote observability best-practices to ensure platform resiliency, performance and cost-optimization.
+Design and implement observability solutions based on the goals and requirements set forth by leadership, SLI and SLO.
+Required Experience
+At least 6 years of professional experience in systems engineering
+At least 4 years of experience programming in JavaScript, TypeScript, Node.js, or Python
+At least 4 years of experience delivering application performance monitoring visualizations with New Relic.
+At least 4 years of experience designing and building application performance monitoring solutions.
+At least 4 years of experience instrumenting application for telemetry data.
+At least 4 years of experience delivering cloud native software.
+Bachelor’s degree or equivalent practical experience
+Additional Skills
+Deep domain expertise delivering cloud native solutions.
+Experience in –
+Observability best practices
+Application Performance Monitoring
+Microservice Architectures
+Observability as Code
+Deep understanding of SRE concepts, such as Service Level Indicators and Service Level Objectives
+DevOps
+Some experience in –
+Application Testing
+SecOps
+AWS Cloud Development Kit (CDK)
+AWS Management, Security, Scalability, Reliability, Cost Optimization
+Education and Certifications
+AWS Certified DevOps - Professional
+AWS Certified Solutions Architect – Associate
+Multiple Observability Platforms
+Hands on experience with Opentelemetry.
+JavaScript, TypeScript, Node.js and React experience."
+DevOps/Infrastructure Engineer with Python,Cloudxtreme,Hyderabad,,,https://www.naukri.com/job-listings-devops-infrastructure-engineer-with-python-cloudxtreme-hyderabad-chennai-bengaluru-4-to-8-years-040926927549,"DevOps/Infrastructure Engineer with Python Background
+Core Technical Skills (Required)
+Python Development (3+ years): Solid foundation for system integration
+DevOps & Infrastructure (4+ years):
+Docker containerization and Docker Compose
+CI/CD pipeline design and implementation
+Cloud deployment (AWS/Azure/GCP)
+Monitoring and logging systems
+Database & Storage:
+Vector databases (ChromaDB, Pinecone, FAISS)
+File system optimization and caching
+Data persistence and backup strategies
+System Administration:
+Linux/Windows server management
+Network configuration and security
+Performance monitoring and optimization
+Specialized Skills
+Container Orchestration: Kubernetes for enterprise deployment
+Security: API security, authentication, data privacy
+Scalability: Load balancing, distributed systems
+Enterprise Integration: LDAP, SSO, enterprise system connectivity"
+DevOps Engineer,SmartDocs Business Solutions,Hyderabad,,,https://www.naukri.com/job-listings-devops-engineer-smartdocs-inc-hyderabad-1-to-5-years-140926501568,"DevOps Engineer
+Experience: 1-5 Years | Location: Hyderabad (Onsite)
+About SmartDocs SmartDocs is an AI-powered Source-to-Pay platform helping enterprises digitize and automate their procurement and finance operations. As we scale our platform, were building a strong DevOps function to keep our infrastructure fast, secure, and reliable.
+The Role
+Youve moved past ""I followed the runbook"" and youre now at ""I wrote the runbook, and then improved it."" This role sits between our Jr. DevOps Engineer and our DevOps Manager/Lead - youre not new to this, but youre not running the whole show either. You take ownership of real pipelines, real environments, and real incidents, with a manager who trusts you to make the call and only wants to hear about it if its actually on fire.
+What Youll Actually Be Doing
+Build, maintain, and improve CI/CD pipelines for trunk-based development, working directly with development teams across time zones.
+Deploy and manage containerized applications on Azure (AKS preferred) - youre comfortable enough with Docker and Kubernetes that ""just restart the pod"" isnt your only move.
+Design and maintain infrastructure as code (Terraform or Bicep) - provisioning, environment consistency, and cleaning up the drift nobody wants to own.
+Use AI-assisted development tools (Claude Code, GitHub Copilot, or similar) as part of your actual daily workflow - not a novelty, a habit. Scripting, troubleshooting, and automation should be faster because of it.
+Operate production MongoDB - routine administration, backup/restore testing, and enough comfort with Mongo Atlas to not panic during a replica set election.
+Implement and maintain monitoring and centralized logging (Datadog, Site24x7, ELK, Splunk, or similar) so problems get caught before clients notice them.
+Take a share of the on-call rotation and run incident response for your piece of the system - writing postmortems that name the actual cause.
+Support security hygiene - patching, secrets, certificates, vulnerability follow-up - and help produce evidence for SOC 2 / ISO 27001 / GDPR audits when asked.
+Manage the unglamorous but critical stuff: domain/DNS (Cloudflare/GoDaddy), version control hygiene, ticket discipline in Jira.
+Who Were Looking For
+1-5 years in DevOps/SRE/infrastructure roles, with real production ownership - not just POCs and sandbox environments.
+Solid Azure fundamentals: compute, networking basics, IAM, cost visibility. AWS/GCP exposure is a plus, not a substitute.
+Hands-on with Docker and Kubernetes in a real deployment context.
+Working CI/CD experience with Azure DevOps, GitHub Actions, Jenkins, or Bitbucket CI/CD.
+Comfortable with Python or Bash for automation - youd rather write a script than repeat a manual step three times.
+Some exposure to MongoDB administration; Mongo Atlas familiarity is a plus.
+Familiarity with Git-based version control and ticketing tools (Jira or similar).
+Must-Have (Non-Negotiable)
+Practical, current fluency with AI-assisted development tools - Claude Code specifically preferred, GitHub Copilot or equivalent acceptable. If you havent used one to actually get work done faster, this isnt the right seat yet.
+Genuine curiosity about how AI tooling changes DevOps work - were an AI company, and we expect that to show up in how you work, not just what you build.
+Why SmartDocs
+Youll get real ownership of pipelines and environments that matter, mentorship from a manager whos actually run production, and room to grow into more scope as you prove it out. Fast-growing AI product company, real infrastructure problems, no busywork theater.
+Required Skills
+Kubernetes claude Docker anthropic Azure
+
+
+Disclaimer: This job posting has been aggregated from external source. Role details, content, and availability are subject to change. Applicants are advised to confirm the latest information directly on the company website before applying."
+Python Devops Engineer,Redolent,Hyderabad,,,https://www.naukri.com/job-listings-python-devops-engineer-redolent-inc-warangal-hyderabad-nizamabad-2-to-7-years-210726504452,"Key Responsibilities:
+Automation: Develop scripts and tools to automate deployment processes.
+CI/CD Pipelines: Implement Continuous Integration and Continuous Deployment pipelines using tools like Jenkins, GitLab CI, or CircleCI.
+Infrastructure as Code: Use tools like Terraform or Ansible to manage infrastructure through code.
+Monitoring and Logging: Set up monitoring and logging solutions to ensure application performance and reliability.
+Skills Required:
+Programming: Proficiency in Python for scripting and automation tasks.
+DevOps Tools: Familiarity with Docker, Kubernetes, and cloud platforms (AWS, Azure, GCP).
+Version Control: Experience with Git for source code management.
+Networking and Security: Understanding of networking concepts and security best practices.
+Education and Experience:
+A degree in Computer Science, Information Technology, or a related field is common.
+Relevant experience in software development and system administration is beneficial.
+Certifications:
+Certifications in cloud platforms (e.g., AWS Certified DevOps Engineer) or DevOps methodologies can enhance job prospects.
+Job Outlook:
+The demand for DevOps engineers, particularly those skilled in Python, continues to grow as organizations seek to improve their software delivery processes.
+
+
+Disclaimer : This job posting has been aggregated from external source. Role details, content, and availability are subject to change. Applicants are advised to confirm the latest information directly on the company website before applying."
+devops engineer,Intothepro Techscapes,Hyderabad,,,https://www.naukri.com/job-listings-devops-engineer-intothepro-tech-scapes-its-hyderabad-3-to-4-years-090626502115,"Job Description :
+we are looking for a talented devops engineer to join our team and help us build and maintain our infrastructure, ensuring seamless integration and deployment of our applications.
+experience with microservices architecture and container orchestration.
+understanding of network and security best practices.
+knowledge of database management and optimization.
+Role And Responsibilities :
+design, implement, and maintain ci/cd pipelines for various applications.
+manage and automate infrastructure provisioning using tools like terraform, ansible, or similar.
+monitor and optimize system performance, reliability, and scalability.
+collaborate with development teams to integrate new features and improvements.
+ensure the security, reliability, and efficiency of our cloud environments.
+troubleshoot and resolve issues in development, test, and production environments.
+maintain and improve system logging, monitoring, and alerting.
+Skills & Experience :
+3-4 years of experience in devops or a related role.
+proficiency with devops tools and technologies such as docker, kubernetes, jenkins, git, and ci/cd pipelines.
+experience with cloud platforms (aws, azure, or google cloud).
+knowledge of scripting languages (python, bash, etc.) and infrastructure as code (iac).
+familiarity with configuration management tools like ansible, chef, or puppet.
+experience with monitoring and logging tools (prometheus, grafana, elk stack, etc.).
+Person Specification :
+BTech/MTech/MCA or equivalent
+
+
+Disclaimer: This job posting has been aggregated from external source. Role details, content, and availability are subject to change. Applicants are advised to confirm the latest information directly on the company website before applying."
