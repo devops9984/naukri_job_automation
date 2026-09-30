@@ -1,6 +1,7 @@
 import csv
 import os
 import re
+import shutil
 from docx import Document
 from docx.shared import Pt
 
@@ -514,6 +515,42 @@ def create_targeted_resume(
 
 
 # ============================================================
+# CLEAN OUTPUT DIRECTORY
+# ============================================================
+
+def clean_output_directory():
+
+    if os.path.exists(OUTPUT_DIR):
+
+        print("Cleaning old generated resumes...")
+
+        for filename in os.listdir(OUTPUT_DIR):
+
+            file_path = os.path.join(
+                OUTPUT_DIR,
+                filename
+            )
+
+            try:
+
+                if os.path.isfile(file_path):
+                    os.remove(file_path)
+
+                elif os.path.isdir(file_path):
+                    shutil.rmtree(file_path)
+
+            except Exception as error:
+
+                print(
+                    f"Could not remove {file_path}: {error}"
+                )
+
+    else:
+
+        os.makedirs(OUTPUT_DIR)
+
+
+# ============================================================
 # MAIN
 # ============================================================
 
@@ -525,10 +562,8 @@ def main():
     print("=" * 60)
     print()
 
-    os.makedirs(
-        OUTPUT_DIR,
-        exist_ok=True
-    )
+    # Clean previous generated resumes
+    clean_output_directory()
 
     master_document = load_master_resume()
 
@@ -569,7 +604,12 @@ def main():
                 analysis
             )
 
+            # ------------------------------------------------
+            # UNIQUE JOB-SPECIFIC FILENAME
+            # ------------------------------------------------
+
             filename = (
+                f"{index:03d}_"
                 f"{safe_filename(company)}_"
                 f"{safe_filename(job_title)}.docx"
             )
@@ -608,6 +648,10 @@ def main():
         f"Output folder: {OUTPUT_DIR}"
     )
 
+
+# ============================================================
+# RUN PROGRAM
+# ============================================================
 
 if __name__ == "__main__":
     main()
